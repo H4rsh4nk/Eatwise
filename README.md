@@ -1,6 +1,6 @@
-# prankvideo
+# Eatwise
 
-Prank App and Video Call App
+
 
 ## Getting Started
 
