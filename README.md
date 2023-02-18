@@ -7,6 +7,3 @@ various foods and calculates the calories considering their size with around
 94% accuracy.
 * Compiled APK file is added into the root folder of the repo. 
 
-## Screenshots
-
-## Working Demo (Video)
